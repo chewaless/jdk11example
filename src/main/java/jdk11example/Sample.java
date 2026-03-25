@@ -1,4 +1,4 @@
-package jdk8example;
+package jdk11example;
 
 public class Sample {
 
